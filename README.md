@@ -1,10 +1,11 @@
 # python101
 
+> Exercícios para fixação de sintaxe Python.
+
 <p align=center>
   <img src="./assets/python.png">
 </p>
 
-Exercícios para fixação de sintaxe Python.
 
 <hr>
 
