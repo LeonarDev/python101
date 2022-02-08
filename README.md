@@ -1,6 +1,8 @@
 # python101
 
-<img src="./assets/python.png">
+<p align=center>
+  <img src="./assets/python.png">
+</p>
 
 Exercícios para fixação de sintaxe Python.
 
