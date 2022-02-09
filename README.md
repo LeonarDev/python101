@@ -7,6 +7,7 @@
 </p>
 
 ### Referências:
+- [W3Schools](https://www.w3schools.com/python/)
 - [Python - Microsoft Learn](https://docs.microsoft.com/pt-br/learn/paths/python-language/)
 - [Python Oficia Docsl](https://docs.python.org/pt-br/3/tutorial/index.html)
 - [PensePython2e](https://penseallen.github.io/PensePython2e/01-jornada.html)
